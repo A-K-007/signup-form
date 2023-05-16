@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+}
+
+.bg-img {
+    background-image: url(img/halie-west-25xggax4bSA-unsplash.jpg);
+    margin: 0 30px 0 0;
+}
+.logo {
+    display: block;
+    margin: 80px auto;
+    width: 50%;
+}
+.para {
+    font-weight: bold;
+}
+.form {
+    text-align: start;
+}
+.flex {
+    display: flex;
+}
+.input {
+    margin-left: 30px;
+}
